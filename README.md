@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing my B.Tech in Artificial Intelligence
+- 🔭 I’m currently ... pursuing my B.Tech in Artificial Intelligence
 - 🌱 I’m currently learning AI, ML, DL, Signal and Image Processing, NLP and many more
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
