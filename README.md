@@ -9,7 +9,7 @@
 | Machine Learning| 
 | Deep Learning | 
 | Signal and Image Processing| 
-| Data Anaytics | 
+| Data Analytics | 
 | Data Science | 
 | Statistics and Probability | 
 | Bayesian Network | 
