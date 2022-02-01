@@ -1,3 +1,5 @@
+|B.Tech, Artificial Intelligence
+|Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu, India
 ### Hey all!! Here is what I'm working on 👋
 
 - 🔭 I’m currently pursuing my B.Tech in Artificial Intelligence
