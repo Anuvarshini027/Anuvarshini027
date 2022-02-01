@@ -13,3 +13,11 @@
 | Data Science | 
 | Statistics and Probability | 
 | Bayesian Network | 
+
+|LANGUAGES|
+| ------------- |
+| Python| 
+| MATLAB| 
+| Julia| 
+| Java| 
+| JavaScript| 
