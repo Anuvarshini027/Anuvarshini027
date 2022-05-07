@@ -10,11 +10,10 @@
 | ------------- |
 | Machine Learning| 
 | Deep Learning | 
-| Signal and Image Processing| 
-| Data Analysis | 
+| Computer Vision| 
+| Natural Language Processing | 
 | Data Science | 
-| Statistics and Probability | 
-| Bayesian Network | 
+| Generative Adversarial Network| 
 
 ## LANGUAGES
 ||
