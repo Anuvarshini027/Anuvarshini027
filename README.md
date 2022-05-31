@@ -21,5 +21,4 @@
 | Python| 
 | MATLAB| 
 | Julia| 
-| Java| 
-| JavaScript| 
+
