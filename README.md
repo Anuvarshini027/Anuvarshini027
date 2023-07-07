@@ -6,7 +6,7 @@
 - 📫 Here is my Linkedin Profile: https://www.linkedin.com/in/anu-varshini-2b39431a0/
 
 ## SKILLS
-|          |
+||
 | ------------- |
 | Machine Learning| 
 | Deep Learning | 
