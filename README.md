@@ -10,8 +10,10 @@ problems using AI. Collaborative and innovative, with experience working in dyna
 ## SKILLS
 ||
 | ------------- |
+| Generative AI| 
 | Machine Learning| 
-| Deep Learning | 
+| Deep Learning |
+| Graph Neural Networks| 
 | Computer Vision| 
 | Natural Language Processing | 
 | Data Science | 
