@@ -1,7 +1,9 @@
 
 ### Hey all!! Here is what I'm working on 👋
 
-- 🔭 I’m currently pursuing my B.Tech in Artificial Intelligence
+- 🔭 Data Scientist with 1.5 years of experience specializing in Generative AI, Natural Language Processing (NLP), Machine Learning (ML),
+and Computer Vision (CV). Proficient in building and deploying deep learning models, with a passion for solving large-scale
+problems using AI. Collaborative and innovative, with experience working in dynamic, interdisciplinary teams.
 - 📫 How to reach me: anuvarshini027@gmail.com
 - 📫 Here is my Linkedin Profile: https://www.linkedin.com/in/anu-varshini-2b39431a0/
 
