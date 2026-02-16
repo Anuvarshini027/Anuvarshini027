@@ -10,6 +10,7 @@ problems using AI. Collaborative and innovative, with experience working in dyna
 ## SKILLS
 ||
 | ------------- |
+| Agentic AI|
 | Generative AI| 
 | Machine Learning| 
 | Deep Learning |
