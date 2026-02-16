@@ -1,7 +1,7 @@
 
 ### Hey all!! Here is what I'm working on 👋
 
-- 🔭 Data Scientist with 1.5 years of experience specializing in Generative AI, Natural Language Processing (NLP), Machine Learning (ML),
+- 🔭 Data Scientist with 4 years of experience specializing in Generative AI, Natural Language Processing (NLP), Machine Learning (ML),
 and Computer Vision (CV). Proficient in building and deploying deep learning models, with a passion for solving large-scale
 problems using AI. Collaborative and innovative, with experience working in dynamic, interdisciplinary teams.
 - 📫 How to reach me: anuvarshini027@gmail.com
